@@ -6,6 +6,6 @@ hello atgu! hello git!
 hello atgu! hello git! 
 hello atgu! hello git! 
 hello atgu! hello git! 
-hello atgu! hello git! 
-hello atgu! hello git! 
+hello atgu! hello git!  
+hello atgu! hello git!  hot-fix test
 
