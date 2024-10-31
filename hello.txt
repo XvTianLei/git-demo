@@ -9,4 +9,4 @@ hello atgu! hello git!
 hello atgu! hello git! master 
 hello atgu! hello git! hot-fix test
 111111111111111111111111
-222222222222222222222 by lhc
+2222222222 by lhc
